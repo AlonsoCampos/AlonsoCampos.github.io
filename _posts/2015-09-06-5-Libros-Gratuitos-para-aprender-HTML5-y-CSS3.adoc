@@ -1,0 +1,70 @@
+= 5 Libros Gratuitos para aprender HTML5 y CSS3
+:hp-image: http://enfasiscomunicaciones.com/wp-content/uploads/2015/02/Libro-abierto-en-el-suelo-487073.jpg
+:hp-tags: HTML5, CSS3
+
+== Libros Gratuitos para aprender los fundamentos de diseño web
+
+Aprender los conceptos de HTML5 y CSS3 son fundamentales para todos los que desean introducirse en el mundo del diseño web. Pero apesar de tener internet como fuente de informacion no todo es estrictamente necesario. 
+
+En este articulo enumeraremos a 5 libros gratuitos para aprender los conceptos mas utilizados en diseño web.
+
+
+++++
+<ul>
+	<li style="list-style:none;">
+    	<a target="_blank" href="http://html5hive.org/free-ebook-a-guide-to-html5-and-css3/">
+        	<h3>A Guide to HTML5 and CSS3</h3>
+        </a>
+        <p>
+        <b>Autor: Asley Menhennett</b>
+        </p>
+        <a target="_blank" style="text-aling:center;" href="http://html5hive.org/free-ebook-a-guide-to-html5-and-css3/">Ver Libro</a>
+    </li>
+    
+    <li style="list-style:none;">
+    	<a target="_blank" href="http://adaptivewebdesign.info/1st-edition/">
+        	<h3> Adaptive Web Design</h3>
+        </a>
+        <p>
+        <b>Autor: Aaron Gustafson</b>
+        </p>
+        <a target="_blank" style="text-aling:center;" href="http://adaptivewebdesign.info/1st-edition/">Ver Libro</a>
+    </li>
+    
+    <li style="list-style:none;">
+    	<a target="_blank" href="https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md">
+        	<h3>  Pocket Guide to Writing SVG</h3>
+        </a>
+        <p>
+        <b>Autor: Joni Trythall</b>
+        </p>
+        <a target="_blank" style="text-aling:center;" href="https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md">Ver Libro</a>
+    </li>
+    
+    <li style="list-style:none;">
+    	<a target="_blank" href="http://adamschwartz.co/magic-of-css/">
+        	<h3>Magic of CSS</h3>
+        </a>
+        <p>
+        <b>Autor: Adam Schwartz</b>
+        </p>
+        <a target="_blank" style="text-aling:center;" href="http://adamschwartz.co/magic-of-css/">Ver Libro</a>
+    </li>
+    
+    <li style="list-style:none;">
+    	<a target="_blank" href="http://chimera.labs.oreilly.com/books/1234000001654/index.html">
+        	<h3> HTML5 Canvas</h3>
+        </a>
+        <p>
+        <b>Autor: Jeff Fulton</b>
+        </p>
+        <a target="_blank" style="text-aling:center;" href="http://chimera.labs.oreilly.com/books/1234000001654/index.html">Ver Libro</a>
+    </li>
+    
+</ul>
+
+
+++++
+
+ Si te gusto esta publicacion no olvides que puedes visitarnos en Twitter @Rackcode y @Huixcospartan para estar al tanto de todas las publicaciones que hagamos.
+
