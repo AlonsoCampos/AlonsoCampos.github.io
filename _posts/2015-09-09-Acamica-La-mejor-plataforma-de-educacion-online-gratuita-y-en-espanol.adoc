@@ -1,0 +1,30 @@
+= Acamica - La mejor plataforma de educacion online gratuita y en español
+:hp-tags: Cursos, Gratuitos,
+:hp-image: http://www.albertchurch.com/wp-content/uploads/2015/03/Captura-de-pantalla-2015-03-07-a-las-23.08.50.png
+
+
+===== La oferta de recibir cursos online cada vez es mas grande por las multiples opciones de plataformas de educacion que ofrecen tanto cursos gratuitos como de pago, algunas por el marketing que realizan son bastante conocidas otras que apenas inician son solo reconocidas por sus primeros usuarios.
+
+Aunque la competencia de educacion online es grande http://www.Acamica.com representa una de las plataformas de educacion online que se convertira en un gigante en poco tiempo. 
+
+Acamica presenta sus cursos de forma ramificada, la cual es bastante util a la hora de aprender. Con cursos que son accesibles e interactivos que pueden ser tomados en cualquier momento y que nos dan la posibilidad de validad nuestros conocimientos con pequeños examenes.
+
+== Cuenta con un gran numero de cursos
+
+- Wordpress
+- Introduccion al Desarrollo Web
+- HTML 5
+- Angular JS
+- Responsive Desing
+- Diseño de Aplicaciones
+- CSS
+- Mongo DB
+- Heroku
+- Git
+
+=== Ademas presenta su modelo de aprendizaje como Carreras
+
+- Desarrollador Web
+- Diseñador Web
+
+Acamica es la mejor plataforma de educacon online gratuita por tener tan buen contenido y ser explicado de la mejor forma posible los temas definitivamente si quieres aprender desarrollo web tienes que entrar aqui.
