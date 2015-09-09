@@ -22,9 +22,13 @@ Acamica presenta sus cursos de forma ramificada, la cual es bastante util a la h
 - Heroku
 - Git
 
+image::http://www.nerdilandia.com/wp-content/uploads/2014/11/Carreras-%C2%B7-Acamica.jpeg[]
+
 === Ademas presenta su modelo de aprendizaje como Carreras
 
 - Desarrollador Web
 - Diseñador Web
+
+image::http://www.conectarigualdad.gob.ar/img/thumbs/noticia_acamica_640.jpg[]
 
 Acamica es la mejor plataforma de educacon online gratuita por tener tan buen contenido y ser explicado de la mejor forma posible los temas definitivamente si quieres aprender desarrollo web tienes que entrar aqui.
