@@ -1,6 +1,6 @@
 = Acamica - La mejor plataforma de educacion online gratuita y en español
-:hp-tags: Cursos, Gratuitos,
 :hp-image: http://www.albertchurch.com/wp-content/uploads/2015/03/Captura-de-pantalla-2015-03-07-a-las-23.08.50.png
+:hp-tags: Cursos, Gratuitos,
 
 
 ===== La oferta de recibir cursos online cada vez es mas grande por las multiples opciones de plataformas de educacion que ofrecen tanto cursos gratuitos como de pago, algunas por el marketing que realizan son bastante conocidas otras que apenas inician son solo reconocidas por sus primeros usuarios.
