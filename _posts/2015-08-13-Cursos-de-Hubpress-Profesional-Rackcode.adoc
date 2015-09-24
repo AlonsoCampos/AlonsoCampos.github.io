@@ -1,6 +1,6 @@
 = Cursos de  Hubpress Profesional - Rackcode
+:hp-tags: Rackcode, Github, Hubpress, Git
 :hp-image: http://www.reilleydesignstudio.com/wp-content/uploads/Steven-Brien-Web-Developer.jpg
-
 :uri-rackcode: http://rackcode.info
 
 
