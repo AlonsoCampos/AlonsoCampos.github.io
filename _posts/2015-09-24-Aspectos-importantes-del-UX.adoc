@@ -1,0 +1,27 @@
+= Aspectos importantes del UX
+:hp-image: https://picjumbo.imgix.net/HNCK8458.jpg?q=40&w=1650&sharp=30
+:hp-tags: UX, User Experience, Experiencia de Usuario, Rackcode
+
+== Influye la Experiencia de usuario para generar mas conversiones
+
+El UX es uno de los temas mas importantes en un proyecto, puesto que permite al usuario rapido aprendizaje y mayor grado de interacion por parte del usuario.
+
+Ahora como sabemos antes de lanzar un sitio debemos de realizar una revision de aspectos importantes, como funcionalidad, diseño, seguridad pero todos estos aspectos hacen que olvidemos lo mas importante la "Experiencia de Usuario" o "User Experience".
+
+Un claro ejemplo es cuando realizamos pruebas y nuestro tester hace esta pregunta muy comun ¿Que debo hacer ahora?. Lo que significa que hemos fallado en la Experiencia. A diferencia de este ejemplo un diseño web pensado con Experiencia de Usuario muestra cada una de sus elementos de tal forma que lleva a nuestros usuarios de la mano. 
+
+Ahora hablemos de algunos aspectos importantes del UX
+
+=== Diseño 
+
+Este aspecto va mucho mas que paginas bien elaboradas con eso nos referimos a colores, formas, texturas, tenemos que tener en cuenta que existen los problemas de compatibilidad en navegadores, dispositivos moviles, asi como la optimización de imagenes e inclusive los estilos de parrafos que manejamos.
+
+
+=== Funcionalidad
+
+Quizas uno de los errores que mas ocuren en los proyectos no complir con la funcionalidad del producto. La mayoria de las empresas se preocupan mas por el diseño que se olvidan por completo de la funcion que debe de cumplir, lo que genera mas costos.
+
+
+Estos son algunos de los aspectos mas basicos que hay que tener en cuenta, si tienes alguna otra opcion comentala abajo para debatir y poder enriquecer este articulo.
+
+ Muchas Gracias. Siganos en @Rackcode y @Huixcospartan
